@@ -96,7 +96,6 @@
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/394b4a5dc9f2d6468324a34a753ad6f3756fe416/banner/minba/certificado3.png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/efd7e6eff14be8911e855bf310be2e978e542649/banner/minba/Stanford%20Online%20Certificate1.png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/7e15c060e5c1d2765d11bb413f3d2e8ec95beae8/banner/minba/certificados_oficiales/22_4_43546_1532472085_ICS-VLP%20Certificate.png)
-![](https://github.com/eusebio-orozco/IBM-presentacion/blob/7e15c060e5c1d2765d11bb413f3d2e8ec95beae8/banner/minba/certificados_oficiales/45_7_43546_1580786092_Cybersecurity%20Practices.png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/86f45a033aa6601b43d453575e483e56702489a3/banner/minba/certificados_oficiales/Privileged%20User%20Cybersecurity%20Responsibilities%20Certificate(1).png)
 
 
