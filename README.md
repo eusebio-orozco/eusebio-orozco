@@ -93,8 +93,6 @@
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/c8ee6b43050cb93974a743c4cdfda1f6eb372067/banner/minba/interskill-mainframe-security-racf-expert-2-4(1).png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/c8ee6b43050cb93974a743c4cdfda1f6eb372067/banner/minba/tcp-ip-on-z-os-essentials-level-1(1).png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/c8ee6b43050cb93974a743c4cdfda1f6eb372067/banner/minba/interskill-mainframe-specialist-network-communications-foundations-2-4(1).png)
-![](https://github.com/eusebio-orozco/IBM-presentacion/blob/c8ee6b43050cb93974a743c4cdfda1f6eb372067/banner/minba/ibm-zsystems-cybersecurity-insights(1).png)
-![](https://github.com/eusebio-orozco/IBM-presentacion/blob/a3c4905c76ff7b0b93defe55fbdf1fc262aced46/banner/minba/microsoft.png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/394b4a5dc9f2d6468324a34a753ad6f3756fe416/banner/minba/certificado3.png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/efd7e6eff14be8911e855bf310be2e978e542649/banner/minba/Stanford%20Online%20Certificate1.png)
 ![](https://github.com/eusebio-orozco/IBM-presentacion/blob/7e15c060e5c1d2765d11bb413f3d2e8ec95beae8/banner/minba/certificados_oficiales/22_4_43546_1532472085_ICS-VLP%20Certificate.png)
