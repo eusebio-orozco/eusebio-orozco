@@ -4,16 +4,16 @@
 
 <h3>🎓 Formación Académica</h3>
 <ol>
-  <li><strong>Universidad de Stanford (en línea)</strong>
+  <li><strong>Universidad de Stanford (en línea) con registro: </strong>
     <ul>
       <li>Alumno del programa: <strong>Advanced Cybersecurity Program</strong></li>
-      <li>Participante del curso <strong>Code in Place</strong></li>
+      <li>Alumno del curso <strong>Code in Place</strong></li>
     </ul>
   </li>
-  <li><strong>Tecnólogo en Electrónica y Comunicaciones (CETI)</strong>
+  <li><strong>Tecnólogo en Electrónica y Comunicaciones (Centro de Enseñanza Tecnica Industrial CETI)</strong>
     <ul>
-      <li>Reparación, mantenimiento y modificación de equipos electrónicos a nivel tarjeta</li>
-      <li>Interpretación de diagramas eléctricos y electrónicos</li>
+      <li>Reparación, mantenimiento y modificación de equipos electrónicos a nivel tarjeta electronica</li>
+      <li>Interpretación y diseño de diagramas eléctricos y electrónicos</li>
       <li>Manejo de herramientas de diagnóstico: osciloscopio, multímetro, generador de funciones</li>
       <li>Soldadura de componentes electrónicos</li>
       <li>Electrónica analógica y digital</li>
@@ -21,7 +21,7 @@
   </li>
 </ol>
 
-<h3>🛡️ Especialización en Ciberseguridad</h3>
+<h3>🛡️ Especialista en Ciberseguridad</h3>
 <ol start="3">
   <li><strong>Experiencia en:</strong>
     <ul>
