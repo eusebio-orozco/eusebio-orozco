@@ -108,13 +108,3 @@
 <a href="https://digitalcredential.stanford.edu/check/E0C3784602A5A2E6C8DD7484EF326DEB07B7136A44F615FBE704CD0C125B4CAFbXFmOXF4U3lNdkdMWDBpZ0RXWmNwRkVVcU9tSko0NXgyanZLTnI5OThQMlBQMEZw"><img src="https://github.com/eusebio-orozco/IBM-presentacion/blob/e3d0e697ece4d4008b15ba97a9cfc2dd53393293/banner/minba/stanford.png"/></a>
 
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
