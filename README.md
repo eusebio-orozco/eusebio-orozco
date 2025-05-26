@@ -1,34 +1,75 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Eusebio Orozco</h2>
+<h1>Eusebio Orozco</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<h2>Acerca de mí</h2>
 
-  
-###  &nbsp; Acerca de mi
-
-
- &nbsp;Universidad Stanford en línea: soy alumno del programa: “Advanced Cybersecurity Program” y del curso “Code in Place”.\
- &nbsp;Tecnólogo en Electrónica y Comunicaciones ( CETI ) \
- 
-<p>&nbsp;Especialista en Ciberseguridad con experiencia en:</p>
+<h3>🎓 Formación Académica</h3>
 <ol>
-  <li>Auditorias de seguridad (pentesting)
-    <ol type="A">
-      <li>Auditoria de redes de computadoras y escritorio activo.</li>
-    </ol>
+  <li><strong>Universidad de Stanford (en línea)</strong>
+    <ul>
+      <li>Alumno del programa: <strong>Advanced Cybersecurity Program</strong></li>
+      <li>Participante del curso <strong>Code in Place</strong></li>
+    </ul>
   </li>
-  <li>Especializado en ingeniería inversa:
-    <ol type="A">
-      <li>Desarrollador de malware y analista de virus informático</li>
-      <li>Ingeniería inversa de archivos binarios, COM, ELF Linux y debugging.</li>
-      <li>Desarrollador de shellcodes para ejecutar exploits y evasión de antivirus en sistemas Linux y Windows</li>
-      <li>Programador de crackmes</li>
-    </ol>
+  <li><strong>Tecnólogo en Electrónica y Comunicaciones (CETI)</strong>
+    <ul>
+      <li>Reparación, mantenimiento y modificación de equipos electrónicos a nivel tarjeta</li>
+      <li>Interpretación de diagramas eléctricos y electrónicos</li>
+      <li>Manejo de herramientas de diagnóstico: osciloscopio, multímetro, generador de funciones</li>
+      <li>Soldadura de componentes electrónicos</li>
+      <li>Electrónica analógica y digital</li>
+    </ul>
   </li>
 </ol>
+
+<h3>🛡️ Especialización en Ciberseguridad</h3>
+<ol start="3">
+  <li><strong>Experiencia en:</strong>
+    <ul>
+      <li><strong>Auditorías de seguridad (pentesting)</strong>
+        <ul>
+          <li>Auditoría de redes de computadoras y escritorio activo</li>
+        </ul>
+      </li>
+      <li><strong>Ingeniería inversa</strong>
+        <ul>
+          <li>Desarrollo de malware y análisis de virus informáticos</li>
+          <li>Ingeniería inversa de archivos binarios: COM, ELF (Linux) y debugging</li>
+          <li>Desarrollo de shellcodes para exploits y evasión de antivirus en sistemas Linux y Windows</li>
+          <li>Programación de crackmes</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ol>
+
+<h3>🐧 Conocimientos adicionales</h3>
 <ul>
   <li>Linux avanzado</li>
-  <li>Virtualización</li>
+  <li>Virtualización de sistemas operativos: Linux, Windows, Unix, MS-DOS</li>
 </ul>
+
+<h3>🛠 Herramientas desarrolladas</h3>
+<ul>
+  <li><strong>Cronos</strong>: laboratorio virtual de pruebas basado en Windows, diseñado para análisis de malware e ingeniería inversa. Incluye herramientas como:
+    <ul>
+      <li>Eusebio Debugger</li>
+      <li>Metasploit</li>
+      <li>VS Code</li>
+      <li>nmap</li>
+      <li>...entre muchas otras</li>
+    </ul>
+  </li>
+  <li>Ofuscador: herramienta para protección y ocultamiento de código</li>
+  <li>Eusebio Debugger: depurador personalizado para análisis de binarios</li>
+  <li>Kraken: kit de herramientas para el desarrollo de shellcodes</li>
+</ul>
+
+<h3>🧬 Virus desarrollados (con fines educativos y de investigación)</h3>
+<ul>
+  <li>Hypno</li>
+  <li>ICE 9</li>
+</ul>
+
 
 <div align="center">
   
