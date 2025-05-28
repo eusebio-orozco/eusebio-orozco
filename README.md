@@ -75,10 +75,10 @@
   
 ### 🛠 &nbsp;LENGUAJES DE PROGRAMACION
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![ensamblador](https://img.shields.io/badge/ensamblador-525252?style=for-the-badge&logo=gnuassembly&logoColor=white)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/eusebio-orozco/ofuscador-de-codigo)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/eusebio-orozco/hacking-drones)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/eusebio-orozco/Videojuego-DEMO-2D-programado-en-C-)
+[![ensamblador](https://img.shields.io/badge/ensamblador-525252?style=for-the-badge&logo=gnuassembly&logoColor=white)](https://github.com/eusebio-orozco/VIRUS-ICE-9)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <p align="center">
 
-### 📜 &nbsp;IBM certificaciones
+### 📜 &nbsp;IBM - certificaciones - Stanford University 
 
 <a href="https://www.credly.com/users/eusebio-de-jesus-gutierrez-orozco"><img src="https://github.com/eusebio-orozco/IBM-presentacion/blob/efe8f8f6b4db3e56315744264c2c8909fcb630de/banner/minba/ibm_blue.png"/></a>
 <a href="https://digitalcredential.stanford.edu/check/E0C3784602A5A2E6C8DD7484EF326DEB07B7136A44F615FBE704CD0C125B4CAFbXFmOXF4U3lNdkdMWDBpZ0RXWmNwRkVVcU9tSko0NXgyanZLTnI5OThQMlBQMEZw"><img src="https://github.com/eusebio-orozco/IBM-presentacion/blob/e3d0e697ece4d4008b15ba97a9cfc2dd53393293/banner/minba/stanford.png"/></a>
