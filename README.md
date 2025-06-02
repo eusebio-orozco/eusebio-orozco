@@ -97,6 +97,7 @@
 [![](https://github.com/eusebio-orozco/IBM-presentacion/blob/efd7e6eff14be8911e855bf310be2e978e542649/banner/minba/Stanford%20Online%20Certificate1.png)](https://digitalcredential.stanford.edu/check/E0C3784602A5A2E6C8DD7484EF326DEB07B7136A44F615FBE704CD0C125B4CAFbXFmOXF4U3lNdkdMWDBpZ0RXWmNwRkVVcU9tSko0NXgyanZLTnI5OThQMlBQMEZw)
 [![](https://github.com/eusebio-orozco/IBM-presentacion/blob/7e15c060e5c1d2765d11bb413f3d2e8ec95beae8/banner/minba/certificados_oficiales/22_4_43546_1532472085_ICS-VLP%20Certificate.png)](https://drive.google.com/file/d/1Uoa0aLhfGBP4DM7MT7t1yk857ta_syYM/view?usp=drive_link)
 [![](https://github.com/eusebio-orozco/IBM-presentacion/blob/86f45a033aa6601b43d453575e483e56702489a3/banner/minba/certificados_oficiales/Privileged%20User%20Cybersecurity%20Responsibilities%20Certificate(1).png)](https://drive.google.com/file/d/1-yzn6ijIXsG3nnvvPHu9G-2GgVS2bFXW/view?usp=drive_link)
+[![](https://github.com/eusebio-orozco/IBM-presentacion/blob/8303630b1d54f4af5e12100dde499669d8bdf53c/banner/certificado.png)](https://drive.google.com/file/d/1fKsP5Is_7xHxKYkvhL4GodVudFqmgcKd/view?usp=drive_link)
 
 
 
