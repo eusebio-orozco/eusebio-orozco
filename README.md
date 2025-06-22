@@ -4,7 +4,7 @@
 
 <h3>🎓 Formación Académica</h3>
 <ol>
-  <li><strong>Universidad de Stanford (en línea) con registro:X504020 </strong>
+  <li><strong>Universidad de Stanford (en línea) con registro de alumno: X504020 </strong>
     <ul>
       <li>Alumno del programa: <strong>Advanced Cybersecurity Program</strong></li>
       <li>Alumno del curso <strong>Code in Place</strong></li>
