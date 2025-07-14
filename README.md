@@ -75,13 +75,13 @@ y Windows, utilizando técnicas de ingeniería inversa para el análisis, modifi
   <li>Virus: Hypno; Version mejorada del virus ICE 9</li>
 </ul>
 
-<h3>EX-IBM. Ex-analista de Ciberseguridad de IBM para los sistemas IBM Z/OS y AIX</h3>
-<li>Soy uno de los pocos administradores de sistemas especializados en los sistemas operativos IBM Z/OS y UNIX AIX con un enfoque en ciberseguridad (con certificaciones oficiales de IBM).
+<li><h3>EX-IBM. Ex-analista de Ciberseguridad de IBM para los sistemas IBM Z/OS y AIX</h3>
+Soy uno de los pocos administradores de sistemas especializados en los sistemas operativos IBM Z/OS y UNIX AIX con un enfoque en ciberseguridad (con certificaciones oficiales de IBM).
 
 Cuento con 5 años de experiencia realizando pruebas de sistemas en UNIX AIX 7.2 en IBM México, sede Guadalajara, trabajando con servidores IBM Power 7, 8, 9 y Power 10.
 He participado en pruebas de prototipos de ingeniería en entornos UNIX AIX, Red Hat Linux y Ubuntu, utilizando diversos frameworks dentro del departamento de ingeniería de pruebas de IBM Guadalajara.</li>
 
-<h3>Certificado por el Departamento de Seguridad Nacional de EE. UU.</h3>
+<li><h3>Certificado por el Departamento de Seguridad Nacional de EE. UU.</h3>
 Certificado por el Departamento de Seguridad Nacional de EE. UU. (DHS) a través de FedVTE, CISA e IACET
 en los siguientes entrenamientos especializados en el área de ciberseguridad:
 
