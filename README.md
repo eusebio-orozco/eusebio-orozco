@@ -1,4 +1,4 @@
-<h1>Eusebio Orozco</h1>
+<h1>Eusebio de Jesús Gutiérrez Orozco</h1>
 
 <h2>Acerca de mí</h2>
 
@@ -8,9 +8,11 @@
     <ul>
       <li>Alumno del programa: <strong>Advanced Cybersecurity Program</strong></li>
       <li>Alumno del curso <strong>Code in Place</strong></li>
+      <li>Fui alumno en varios cursos durante el trimestre de otoño del año académico 2020–2021</li>
     </ul>
   </li>
-  <li><strong>Tecnólogo en Electrónica y Comunicaciones (Centro de Enseñanza Tecnica Industrial CETI)</strong>
+  <li><strong>Universidad Virtual del Estado de Guanajuato | Ingeniería Industrial</li></strong>
+  <li><strong>Tecnólogo en Electrónica y Comunicaciones (Centro de Enseñanza Tecnica Industrial CETI) 2008 - Egresado</strong>
     <ul>
       <li>Reparación, mantenimiento y modificación de equipos electrónicos a nivel tarjeta electronica</li>
       <li>Interpretación y diseño de diagramas eléctricos y electrónicos</li>
@@ -21,7 +23,7 @@
   </li>
 </ol>
 
-<h3>🛡️ Especialista en Ciberseguridad</h3>
+<h3>🛡️ Especialista en Ciberseguridad - 8 años de experiencia</h3>
 <ol start="3">
   <li><strong>Experiencia en:</strong>
     <ul>
@@ -45,7 +47,7 @@
 <h3>🐧 Conocimientos adicionales</h3>
 <ul>
   <li>Linux avanzado</li>
-  <li>Virtualización de sistemas operativos: Linux, Windows, Unix, MS-DOS</li>
+  <li>Virtualización de sistemas operativos: Linux, Windows, Unix, MS-DOS utilizando los siguientes hipervisores: VMWare, IBM Power Hypervisor, VirtualBox, Hyper-V, Proxmox y Parallels.</li>
 </ul>
 
 <h3>🛠 Herramientas desarrolladas</h3>
@@ -59,17 +61,29 @@
       <li>...entre muchas otras</li>
     </ul>
   </li>
-  <li>Ofuscador: herramienta para protección y ocultamiento de código</li>
-  <li>Eusebio Debugger: depurador personalizado para análisis de binarios</li>
+  <li>Ofuscador de código: cripto.* herramienta para protección y ocultamiento de código: Creador de"cripto" una herramienta programada en Python; se trata de un ofuscador de código para cifrar un
+script escrito en Python. Permite seleccionar cuatro métodos de cifrado: XOR, RSA, XOR clave aleatoria.</li>
+  <li>Eusebio Debugger: Depurador personalizado para análisis de binarios: Desarrollador de una herramienta de análisis forense y depuración de archivos PE en Windows, basada en
+OllyDBG, con soporte de ensamblador/desensamblador de 32 bits e integración de plugins especializados. </li>
   <li>Kraken: kit de herramientas para el desarrollo de shellcodes</li>
 </ul>
 
 <h3>🧬 Virus desarrollados (con fines educativos y de investigación)</h3>
 <ul>
-  <li>Hypno</li>
-  <li>ICE 9</li>
+  <li>Virus: ICE 9; Virus "ICE 9" con capacidad de sobreescritura, auto replicante en archivos .exe Y .DOS para sistemas MS - DOS
+y Windows, utilizando técnicas de ingeniería inversa para el análisis, modificación y evasión de antivirus.</li>
+  <li>Virus: Hypno; Version mejorada del virus ICE 9</li>
 </ul>
 
+<h3>EX-IBM. Ex-analista de Ciberseguridad de IBM para los sistemas IBM Z/OS y AIX</h3>
+<li>Soy uno de los pocos administradores de sistemas especializados en los sistemas operativos IBM Z/OS y UNIX AIX con un enfoque en ciberseguridad (con certificaciones oficiales de IBM).
+
+Cuento con 5 años de experiencia realizando pruebas de sistemas en UNIX AIX 7.2 en IBM México, sede Guadalajara, trabajando con servidores IBM Power 7, 8, 9 y Power 10.
+He participado en pruebas de prototipos de ingeniería en entornos UNIX AIX, Red Hat Linux y Ubuntu, utilizando diversos frameworks dentro del departamento de ingeniería de pruebas de IBM Guadalajara.</li>
+
+<h3>Certificado por el Departamento de Seguridad Nacional de EE. UU.</h3>
+Certificado por el Departamento de Seguridad Nacional de EE. UU. (DHS) a través de FedVTE, CISA e IACET
+en los siguientes entrenamientos especializados en el área de ciberseguridad:
 
 <div align="center">
   
