@@ -75,6 +75,8 @@ y Windows, utilizando técnicas de ingeniería inversa para el análisis, modifi
   <li>Virus: Hypno; Version mejorada del virus ICE 9</li>
 </ul>
 
+<h3>Experiencia Profesional</h3>
+
 <li><h3>EX-IBM. Ex-analista de Ciberseguridad de IBM para los sistemas IBM Z/OS y AIX</h3>
 Soy uno de los pocos administradores de sistemas especializados en los sistemas operativos IBM Z/OS y UNIX AIX con un enfoque en ciberseguridad (con certificaciones oficiales de IBM).
 
@@ -87,11 +89,8 @@ en los siguientes entrenamientos especializados en el área de ciberseguridad:
 
 
 <li>1. Cybersecurity for Industrial Control Systems – Attack Methodologies in IT & ICS</li>
-
 <li>2.Cybersecurity Practices for Industrial Control Systems</li>​
-
 <li>3.101 Reverse Engineering Public Version​</li>
-
 <li>4.Cyber Essentials Public Version</li>
 
 <div align="center">
