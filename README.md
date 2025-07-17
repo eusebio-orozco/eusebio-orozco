@@ -76,6 +76,16 @@ y Windows, utilizando técnicas de ingeniería inversa para el análisis, modifi
   <li>Autor de: “La inteligencia artificial de los VIRUS informáticos: autómatas binarios auto reproductivos”</li>
 </ul>
 
+<h3>Idiomas</h3>
+
+Certificación internacional oficial de lengua Japonesa JLPT 日本語能力試験
+Expedida por The Japan Foundation y JEES (Japan Educational Exchanges and Services).
+Tengo 16 años de experiencia en el idioma Japonés.​
+Profesor de idioma Japonés
+
+Inglés Técnico Industrial
+Universidad virtual del estado de Guanajuato
+
 <h3>Experiencia Profesional</h3>
 
 <li><h3>EX-IBM. Ex-analista de Ciberseguridad de IBM para los sistemas IBM Z/OS y AIX</h3>
