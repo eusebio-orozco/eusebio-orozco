@@ -85,13 +85,14 @@ He participado en pruebas de prototipos de ingeniería en entornos UNIX AIX, Red
 Certificado por el Departamento de Seguridad Nacional de EE. UU. (DHS) a través de FedVTE, CISA e IACET
 en los siguientes entrenamientos especializados en el área de ciberseguridad:
 
-1. Cybersecurity for Industrial Control Systems – Attack Methodologies in IT & ICS
 
-2.Cybersecurity Practices for Industrial Control Systems​
+<li>1. Cybersecurity for Industrial Control Systems – Attack Methodologies in IT & ICS</li>
 
-3.101 Reverse Engineering Public Version​
+<li>2.Cybersecurity Practices for Industrial Control Systems</li>​
 
-4.Cyber Essentials Public Version
+<li>3.101 Reverse Engineering Public Version​</li>
+
+<li>4.Cyber Essentials Public Version</li>
 
 <div align="center">
   
