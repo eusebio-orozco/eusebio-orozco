@@ -73,11 +73,17 @@ OllyDBG, con soporte de ensamblador/desensamblador de 32 bits e integración de 
   <li>Virus: ICE 9; Virus "ICE 9" con capacidad de sobreescritura, auto replicante en archivos .exe Y .DOS para sistemas MS - DOS
 y Windows, utilizando técnicas de ingeniería inversa para el análisis, modificación y evasión de antivirus.</li>
   <li>Virus: Hypno; Version mejorada del virus ICE 9</li>
+  <li>Autor de: “La inteligencia artificial de los VIRUS informáticos: autómatas binarios auto reproductivos”</li>
 </ul>
 
 <h3>Experiencia Profesional</h3>
 
 <li><h3>EX-IBM. Ex-analista de Ciberseguridad de IBM para los sistemas IBM Z/OS y AIX</h3>
+
+Trabaje en remoto con los ingenieros del campus de IBM Rochester USA para la solución de pruebas, debug y testeo de prototipos aún clasificados del departamento de ingeniería de IBM.
+
+Supervisor del departamento de pruebas de servidores.
+
 Soy uno de los pocos administradores de sistemas especializados en los sistemas operativos IBM Z/OS y UNIX AIX con un enfoque en ciberseguridad (con certificaciones oficiales de IBM).
 
 Cuento con 5 años de experiencia realizando pruebas de sistemas en UNIX AIX 7.2 en IBM México, sede Guadalajara, trabajando con servidores IBM Power 7, 8, 9 y Power 10.
@@ -92,6 +98,9 @@ en los siguientes entrenamientos especializados en el área de ciberseguridad:
 <li>2.Cybersecurity Practices for Industrial Control Systems</li>​
 <li>3.101 Reverse Engineering Public Version​</li>
 <li>4.Cyber Essentials Public Version</li>
+
+<li><h3>Certificación internacional Toyota Production System TPS 5 (avalado por ASEMEJA y la Embajada de Japón)</h3>
+<li><h3>Lean Six Sigma White Belt in Military Defense</h3>
 
 <div align="center">
   
